@@ -4,9 +4,8 @@ Para la relizacion de la pagina se muestra los conocimietnos aprendidos en clase
 
 Se replico las siguientes figuras:  
 
-** muestra 1**  
+** muestra 1 **  
+![muestra 1](assets/images/posicion1.png)
 
-![muestra 1](assets/images/posicion caja 1.png)
-
-** muestra 2**  
-![muestra 2](assets/images/posicion caja 2.png)
+** muestra 2 **  
+![muestra 2](assets/images/posicion2.png)
