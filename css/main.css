@@ -1,0 +1,53 @@
+
+h1{
+  margin-left:37%;
+  margin-bottom:8%;
+  font-family:serif;
+  font-size: 40px;
+  color:blue;
+}
+a{
+  border: 1px black solid;
+  background-color: blue;
+  color:white;
+  font-size: 20px;
+  text-decoration:none;
+  width: 15vh;
+  height: 15vh;
+  padding: 5vh;
+}
+.box1{
+ margin-left: 35%;
+}
+.box2{
+  margin-left: 10%;
+}
+div{
+  margin: 10% 40%;
+  width: 300px;
+  height: 300px;
+  box-sizing: border-box;
+}
+.big1{
+  border: 74px red solid;
+  background-color: purple;
+}
+.big2{
+  border: 74px blue solid;
+  background-color: green;
+}
+.big1 p{
+  background-color: yellow;
+  width: 76px;
+  height: 76px;
+  margin-top:0px;
+}
+ .big2 p{
+  position: relative;
+  bottom:74px;
+  right:75px;
+  background-color: black;
+  width: 75px;
+  height: 74px;
+  margin-top: 0px;
+}
